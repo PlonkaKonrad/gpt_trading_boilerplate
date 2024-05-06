@@ -1,5 +1,5 @@
 import OpenAI from "openai";
-import config from '../config.json'
+import config from "../config.js";
 
 export async function askGPT(msg, tools) {
     console.log('ASK GPT')

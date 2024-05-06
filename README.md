@@ -26,7 +26,7 @@ If you have instaled Node on your computer follow next steps
 ```bash
   yarn 
 ```
-* Go to  config.json and paste your GPT api key
+* Go to  config.js and paste your GPT api key
 ```bash
   {
     "GPT_API_KEY": "yourapikey"
